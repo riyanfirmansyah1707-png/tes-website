@@ -1122,6 +1122,8 @@ p {
 }
 
 .portfolio-item {
+    display: block;
+    text-decoration: none;
     background: var(--bg-page);
     border: 1px solid var(--border-color);
     border-radius: var(--radius-lg);
